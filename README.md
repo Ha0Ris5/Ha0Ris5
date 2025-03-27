@@ -30,6 +30,6 @@
 ---
 
 📌 **Find me here:**   
-🔗 LinkedIn: [My Linkedin](https://www.linkedin.com/in/haris-m-9a220a283/)
+🔗 LinkedIn: [MyLinkedin](https://www.linkedin.com/in/haris-m-9a220a283/)
 
 
