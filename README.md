@@ -3,7 +3,7 @@
 
 Passionate about **software development, IT automation, and DevOps**, I thrive on building **scalable applications, AI-driven solutions, and secure cloud infrastructure**. My interests span across **full-stack development, cybersecurity, machine learning, and DevOps**.  
 
-🔍 **Currently Exploring:**  
+🔍 **Currently Interested in:**  
 - 🚀 DevOps & Infrastructure as Code (IaC)  
 - 🌐 Full-Stack Web & App Development  
 - 🔐 Cybersecurity & Cloud Security  
