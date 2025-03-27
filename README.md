@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Haris!  
 ### 🎓 Computer Science Student | 🚀 Developer | 💻 DevOps & IT Enthusiast  
 
-Passionate about **software development, IT automation, and DevOps**, I thrive on building **scalable applications, AI-driven solutions, and secure cloud infrastructure**. My interests span across **full-stack development, cybersecurity, machine learning, and DevOps**.  
+Passionate about **software development, cybersecurity, IT, and DevOps**, I thrive on building **scalable applications, AI-driven solutions, and secure cloud infrastructure**. My interests span across **full-stack development, cybersecurity, machine learning, and DevOps**.  
 
 🔍 **Currently Interested in:**  
 - 🚀 DevOps & Infrastructure as Code (IaC)  
