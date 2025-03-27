@@ -3,12 +3,12 @@
 
 I’m passionate about **software development, IT automation, and DevOps**. I love working on **full-stack applications, cybersecurity scripts, AI projects, and cloud-based solutions**.  
 
-📌 **Currently Exploring:**  
-- ✅ Machine Learning & AI Development  
+📌 **Currently Interested In:**    
 - ✅ DevOps & Infrastructure Automation  
-- ✅ Web & Game Development  
-- ✅ Cybersecurity & Ethical Hacking  
-
+- ✅ Website & App Development  
+- ✅ Cybersecurity & Cloud security  
+- ✅ Machine Learning & AI Development
+ 
 ---
 
 ## 👨‍💻 Software Development & IT Projects  
