@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Haris!  
-### 🚀 Programmer | 🎓 Computer Science Student | 💻 DevOps & IT Enthusiast  
+### 🚀 🎓 Computer Science Student | Developer | 💻 DevOps & IT Enthusiast  
 
 I’m passionate about **software development, IT automation, and DevOps**. I love working on **full-stack applications, cybersecurity scripts, AI projects, and cloud-based solutions**.  
 
