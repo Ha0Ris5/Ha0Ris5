@@ -35,6 +35,24 @@ I’m passionate about **software development, IT automation, and DevOps**. I lo
 
 ---
 
+## 🛠 Skills & Certifications  
+
+### 💡 Technical Skills  
+- **Programming Languages:** Python, C, JavaScript, SQL  
+- **Web Development:** HTML, CSS, React, Node.js, PHP  
+- **Cybersecurity:** Penetration Testing, Networking, Forensics, Linux  
+- **AI & Data Science:** Machine Learning, Data Structures, APIs, Excel, Statistics  
+- **DevOps & IT:** Infrastructure as Code (Terraform, Ansible), CI/CD (GitHub Actions, Jenkins), Docker, Kubernetes, AWS  
+
+### 📜 Certifications  
+- 🎖 **Google Cybersecurity Certification**  
+- 🎖 **Google Advanced Data Analyst**  
+- 🎖 **IBM Python for Data Science & AI**  
+- 🎖 **CS50 Harvard – In Progress**  
+- 🎖 **DofE Bronze Award**  
+
+---
+
 ## 🚀 DevOps & IT Enthusiasm  
 
 Alongside software development, I’m deeply interested in **DevOps practices**, including:  
@@ -51,8 +69,8 @@ I love **automating workflows** and **optimizing software deployment**! 🛠
 ## 🤝 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/haris-m-9a220a283/)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Ha0Ris5?tab=projects)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/haris-github)  
 
 ---
 
-
+✨ *Thanks for visiting my profile! Feel free to check out my projects and connect with me!* 🚀  
