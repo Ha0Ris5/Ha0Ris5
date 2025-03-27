@@ -1,68 +1,68 @@
-# 👋 Hi, I'm Haris!  
-###  🎓 Computer Science Student |🚀 Developer | 💻 DevOps & IT Enthusiast  
+# 👋 Hey, I'm Haris!  
+### 🎓 Computer Science Student | 🚀 Developer | 💻 DevOps & IT Enthusiast  
 
-I’m passionate about **software development, IT automation, and DevOps**. I love working on **full-stack applications, cybersecurity scripts, AI projects, and cloud-based solutions**.  
+Passionate about **software development, IT automation, and DevOps**, I thrive on building **scalable applications, AI-driven solutions, and secure cloud infrastructure**. My interests span across **full-stack development, cybersecurity, machine learning, and DevOps**.  
 
-📌 **Currently Interested In:**    
-- ✅ DevOps & Infrastructure Automation  
-- ✅ Website & App Development  
-- ✅ Cybersecurity & Cloud security  
-- ✅ Machine Learning & AI Development
- 
+🔍 **Currently Exploring:**  
+- 🚀 DevOps & Infrastructure as Code (IaC)  
+- 🌐 Full-Stack Web & App Development  
+- 🔐 Cybersecurity & Cloud Security  
+- 🤖 Machine Learning & AI  
+
 ---
 
-## 👨‍💻 Software Development & IT Projects  
+## 👨‍💻 Featured Projects  
 
 - **🛡 AI Fraud Detection System** _(Python, Machine Learning)_  
   🔗 [Fraud Detection using ML](https://github.com/haris-github/AI-Fraud-Detection)  
-  *Developed a machine learning model to detect fraudulent transactions with high accuracy.*  
+  *Built a predictive model to detect fraudulent transactions with high accuracy.*  
 
-- **🌐 Full Stack Web App** _(HTML, CSS, JavaScript, SQL, PHP)_  
+- **🌐 Full-Stack E-Commerce App** _(HTML, CSS, JavaScript, SQL, PHP)_  
   🔗 [Sports Equipment Store](https://github.com/haris-github/Sports-Equipment-Store)  
-  *A fully functional e-commerce platform with user authentication and product management.*  
+  *A dynamic e-commerce platform with user authentication and product management.*  
 
-- **🎮 2D Java Game Development**  
+- **🎮 Java 2D RPG Game** _(Java, Game Development)_  
   🔗 [Adventure RPG Game](https://github.com/haris-github/Java-RPG-Game)  
-  *Developed a retro-style RPG game with interactive gameplay mechanics.*  
+  *Developed an interactive RPG game with engaging mechanics and UI.*  
 
-- **📚 Data Structures & Algorithms Practice** _(Python)_  
+- **📚 Data Structures & Algorithms Repository** _(Python)_  
   🔗 [DS & Algos](https://github.com/haris-github/DSA-Practice)  
-  *Practicing problem-solving skills with optimized algorithm implementations.*  
+  *Optimized solutions for common algorithmic problems and challenges.*  
 
-- **🔐 Cybersecurity & Scripting** _(PowerShell, Bash)_  
+- **🔐 Cybersecurity & Security Scripting** _(PowerShell, Bash)_  
   🔗 [Security Scripts](https://github.com/haris-github/Cybersecurity-Scripts)  
-  *Created security automation scripts for penetration testing and system hardening.*  
+  *Automated security scripts for penetration testing and system hardening.*  
 
 ---
 
 ## 🛠 Skills & Certifications  
 
 ### 💡 Technical Skills  
-- **Programming Languages:** Python, C, JavaScript, SQL  
+- **Languages:** Python, C, JavaScript, SQL  
 - **Web Development:** HTML, CSS, React, Node.js, PHP  
-- **Cybersecurity:** Penetration Testing, Networking, Forensics, Linux  
-- **AI & Data Science:** Machine Learning, Data Structures, APIs, Excel, Statistics  
-- **DevOps & IT:** Infrastructure as Code (Terraform, Ansible), CI/CD (GitHub Actions, Jenkins), Docker, Kubernetes, AWS  
+- **Cybersecurity:** Penetration Testing, Networking, Linux Security  
+- **AI & Data Science:** Machine Learning, APIs, Statistics, Excel  
+- **DevOps & Cloud:** Docker, Kubernetes, AWS, Terraform, Ansible, CI/CD  
 
 ### 📜 Certifications  
 - 🎖 **Google Cybersecurity Certification**  
 - 🎖 **Google Advanced Data Analyst**  
 - 🎖 **IBM Python for Data Science & AI**  
-- 🎖 **CS50 Harvard – In Progress**  
+- 🎖 **Harvard CS50 (In Progress)**  
 - 🎖 **DofE Bronze Award**  
 
 ---
 
-## 🚀 DevOps & IT Enthusiasm  
+## 🚀 DevOps & Cloud Enthusiasm  
 
-Alongside software development, I’m deeply interested in **DevOps practices**, including:  
-- ✅ Infrastructure as Code (IaC) – Terraform, Ansible  
-- ✅ CI/CD Pipelines – GitHub Actions, Jenkins  
-- ✅ Cloud Computing – AWS, Azure, GCP  
-- ✅ Linux Administration & Shell Scripting  
-- ✅ Containerization – Docker, Kubernetes  
+Apart from development, I’m deeply passionate about **DevOps and IT automation**, including:  
+- ✅ Infrastructure as Code (Terraform, Ansible)  
+- ✅ CI/CD Pipelines (GitHub Actions, Jenkins)  
+- ✅ Cloud Computing (AWS, Azure, GCP)  
+- ✅ Linux & Shell Scripting  
+- ✅ Docker & Kubernetes for Containerization  
 
-I love **automating workflows** and **optimizing software deployment**! 🛠  
+I love **streamlining deployments** and **optimizing cloud infrastructure**! 🚀  
 
 ---
 
@@ -73,4 +73,5 @@ I love **automating workflows** and **optimizing software deployment**! 🛠
 
 ---
 
-✨ *Thanks for visiting my profile! Feel free to check out my projects and connect with me!* 🚀  
+✨ *Thanks for stopping by! Check out my projects and let’s connect!* 🚀  
+
