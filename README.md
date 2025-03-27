@@ -42,13 +42,13 @@ Passionate about **software development, IT automation, and DevOps**, I thrive o
 - **Web Development:** HTML, CSS, React, Node.js, PHP  
 - **Cybersecurity:** Penetration Testing, Networking, Linux Security  
 - **AI & Data Science:** Machine Learning, APIs, Statistics, Excel  
-- **DevOps & Cloud:** Docker, Kubernetes, AWS, Terraform, Ansible, CI/CD  
+- **DevOps & Cloud:** Docker, Kubernetes, AWS, YAML, CI/CD  
 
 ### 📜 Certifications  
 - 🎖 **Google Cybersecurity Certification**  
-- 🎖 **Google Advanced Data Analyst**  
-- 🎖 **IBM Python for Data Science & AI**  
-- 🎖 **Harvard CS50 (In Progress)**  
+- 🎖 **Google Advanced Data Analyst**   
+- 🎖 **Harvard CS50 (In Progress)**
+- 🎖 **The Odin Project (In Progress)**
 - 🎖 **DofE Bronze Award**  
 
 ---
