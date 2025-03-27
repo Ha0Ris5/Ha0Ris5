@@ -1,35 +1,74 @@
-<h1>Hi, I'm Haris! <br/><a href="https://github.com/haris-github">Programmer</a>, <a href="https://www.linkedin.com/in/your-linkedin">Computer Science Student</a></h1>
+# 👋 Hi, I'm Haris!  
+### 🚀 Programmer | 🎓 Computer Science Student | 💻 DevOps & IT Enthusiast  
 
-<h2>👨‍💻 Software Development and IT Projects:</h2>
+![Haris' Avatar](https://avatars.githubusercontent.com/u/your-github-id?v=4)  
 
-- <b>AI Fraud Detection System (Python, Machine Learning)</b>
-  - [Fraud Detection using ML](https://github.com/haris-github/AI-Fraud-Detection)
-- <b>Full Stack Web App (HTML, CSS, JavaScript, SQL, PHP)</b>
-  - [Sports Equipment Store](https://github.com/haris-github/Sports-Equipment-Store)
-- <b>2D Java Game Development</b>
-  - [Adventure RPG Game](https://github.com/haris-github/Java-RPG-Game)
-- <b>Data Structures and Algorithms Practice</b>
-  - [DS & Algos in Python](https://github.com/haris-github/DSA-Practice)
-- <b>Cybersecurity & Scripting</b>
-  - [PowerShell Security Scripts](https://github.com/haris-github/Cybersecurity-Scripts)
+I’m passionate about **software development, IT automation, and DevOps**. I love working on **full-stack applications, cybersecurity scripts, AI projects, and cloud-based solutions**.  
 
-<h2>📺 Popular Tech Videos</h2>
-
-- [How to Get Into Computer Science](https://www.youtube.com/your-channel/video1)
-- [Building an AI Fraud Detection System](https://www.youtube.com/your-channel/video2)
-- [Game Development with Java](https://www.youtube.com/your-channel/video3)
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="Haris | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="Haris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[github]: https://github.com/haris-github
-[linkedin]: https://www.linkedin.com/in/haris-m-9a220a283/
+📌 **Currently exploring:**  
+✅ Machine Learning & AI Development  
+✅ DevOps & Infrastructure Automation  
+✅ Web & Game Development  
+✅ Cybersecurity & Ethical Hacking  
 
 ---
 
-📌 **Find me here:**   
-🔗 LinkedIn: [MyLinkedin](https://www.linkedin.com/in/haris-m-9a220a283/)
+## 👨‍💻 Software Development & IT Projects  
+
+- **🛡 AI Fraud Detection System** _(Python, Machine Learning)_  
+  🔗 [Fraud Detection using ML](https://github.com/haris-github/AI-Fraud-Detection)  
+  *Built a model to detect fraudulent transactions with high accuracy using ML techniques.*  
+
+- **🌐 Full Stack Web App** _(HTML, CSS, JavaScript, SQL, PHP)_  
+  🔗 [Sports Equipment Store](https://github.com/haris-github/Sports-Equipment-Store)  
+  *A fully functional e-commerce platform with user authentication and product management.*  
+
+- **🎮 2D Java Game Development**  
+  🔗 [Adventure RPG Game](https://github.com/haris-github/Java-RPG-Game)  
+  *Developed a retro-style RPG game with interactive gameplay and engaging mechanics.*  
+
+- **📚 Data Structures & Algorithms Practice** _(Python)_  
+  🔗 [DS & Algos](https://github.com/haris-github/DSA-Practice)  
+  *Practicing problem-solving skills with optimized algorithm implementations.*  
+
+- **🔐 Cybersecurity & Scripting** _(PowerShell, Bash)_  
+  🔗 [Security Scripts](https://github.com/haris-github/Cybersecurity-Scripts)  
+  *Created security automation scripts for penetration testing and system hardening.*  
+
+---
+
+## 🚀 DevOps & IT Enthusiasm  
+Alongside software development, I’m also deeply interested in **DevOps practices**, including:  
+✅ Infrastructure as Code (IaC) – Terraform, Ansible  
+✅ CI/CD Pipelines – GitHub Actions, Jenkins  
+✅ Cloud Computing – AWS, Azure, GCP  
+✅ Linux Administration & Shell Scripting  
+✅ Containerization – Docker, Kubernetes  
+
+I love **automating workflows** and **optimizing software deployment**! 🛠  
+
+---
+
+## 📺 Popular Tech Videos  
+
+🎥 **Check out my latest videos on software development & IT:**  
+- [💡 How to Get Into Computer Science](https://www.youtube.com/your-channel/video1)  
+- [🤖 Building an AI Fraud Detection System](https://www.youtube.com/your-channel/video2)  
+- [🎮 Game Development with Java](https://www.youtube.com/your-channel/video3)  
+
+---
+
+## 🤝 Connect with Me  
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/haris-github)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/haris-m-9a220a283/)  
+
+📌 **Find me here:**  
+🔗 **LinkedIn:** [Haris M](https://www.linkedin.com/in/haris-m-9a220a283/)  
+
+---
+
+✨ *Thanks for visiting my profile! Feel free to check out my projects and connect with me!* 🚀  
+
 
 
