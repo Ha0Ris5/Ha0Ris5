@@ -49,7 +49,7 @@ I love **automating workflows** and **optimizing software deployment**! 🛠
 ## 🤝 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/haris-m-9a220a283/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Ha0Ris5-github)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)]([https://github.com/Ha0Ris5-github](https://github.com/Ha0Ris5))  
   
 
 
