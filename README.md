@@ -29,8 +29,7 @@
 
 ---
 
-📌 **Find me here:**  
-🔗 GitHub: [your-github](https://github.com/haris-github)  
-🔗 LinkedIn: [your-linkedin](https://www.linkedin.com/in/haris-m-9a220a283/)
+📌 **Find me here:**   
+🔗 LinkedIn: [My Linkedin](https://www.linkedin.com/in/haris-m-9a220a283/)
 
 
