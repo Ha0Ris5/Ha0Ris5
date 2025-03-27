@@ -47,24 +47,12 @@ Alongside software development, I’m also deeply interested in **DevOps practic
 
 I love **automating workflows** and **optimizing software deployment**! 🛠  
 
----
-
-## 📺 Popular Tech Videos  
-
-🎥 **Check out my latest videos on software development & IT:**  
-- [💡 How to Get Into Computer Science](https://www.youtube.com/your-channel/video1)  
-- [🤖 Building an AI Fraud Detection System](https://www.youtube.com/your-channel/video2)  
-- [🎮 Game Development with Java](https://www.youtube.com/your-channel/video3)  
-
----
 
 ## 🤝 Connect with Me  
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/haris-github)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Ha0Ris5-github)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/haris-m-9a220a283/)  
 
-📌 **Find me here:**  
-🔗 **LinkedIn:** [Haris M](https://www.linkedin.com/in/haris-m-9a220a283/)  
 
 ---
 
