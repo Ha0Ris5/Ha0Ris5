@@ -55,7 +55,7 @@ Passionate about **software development, IT automation, and DevOps**, I thrive o
 
 ## 🚀 DevOps & Cloud Enthusiasm  
 
-Apart from development, I’m deeply passionate about **DevOps and IT automation**, including:  
+Apart from development, I’m also interested in **DevOps and IT automation**, including:  
 - ✅ Infrastructure as Code (Terraform, Ansible)  
 - ✅ CI/CD Pipelines (GitHub Actions, Jenkins)  
 - ✅ Cloud Computing (AWS, Azure, GCP)  
