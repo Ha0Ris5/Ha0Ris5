@@ -54,7 +54,5 @@ I love **automating workflows** and **optimizing software deployment**! 🛠
 
 ---
 
-✨ *Thanks for visiting my profile! Feel free to check out my projects and connect with me!* 🚀  
-
 
 
