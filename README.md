@@ -17,8 +17,8 @@ Passionate about **Software development, cybersecurity, IT, and DevOps**, I thri
   🔗 [Fraud Detection using ML](https://github.com/haris-github/AI-Fraud-Detection)  
   *Built a predictive model to detect fraudulent transactions with high accuracy.*  
 
-- **🌐 Full-Stack E-Commerce App** _(HTML, CSS, JavaScript, SQL, PHP)_  
-  🔗 [Sports Equipment Store](https://github.com/haris-github/Sports-Equipment-Store)  
+- **🌐 Full-Stack Job Listing Website** _(HTML, CSS, JavaScript, SQL, PHP)_  
+  🔗 [Job listing website](https://github.com/haris-github/)  
   *A dynamic e-commerce platform with user authentication and product management.*  
 
 - **🎮 Java 2D RPG Game** _(Java, Game Development)_  
