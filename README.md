@@ -14,7 +14,7 @@ Passionate about **Software development, cybersecurity, IT, and DevOps**, I thri
 ## 👨‍💻 Featured Projects  
 
 - **🛡 AI Fraud Detection System** _(Python, Machine Learning)_  
-  🔗 [Fraud Detection using ML](https://github.com/haris-github/AI-Fraud-Detection)  
+  🔗 [Fraud Detection using ML](https://github.com/Ha0Ris5/AI-Fraud-Detection-System)  
   *Built a predictive model to detect fraudulent transactions with high accuracy.*  
 
 - **🌐 Full-Stack Job Listing Website** _(HTML, CSS, JavaScript, SQL, PHP)_  
