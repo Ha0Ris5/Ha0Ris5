@@ -2,7 +2,7 @@
 ### 🎓 Computer Science Student | 💻 Cybersecurity & Cloud | 🚀 Developer
 
 Immersed in **Cybersecurity, IT, and Cloud Development**, I thrive on building **scalable applications, AI-driven solutions, and secure cloud infrastructure**.  
-My interests span **full-stack development, cybersecurity, machine learning, and DevOps**.
+My interests span through **full-stack development, cybersecurity, machine learning, and DevOps**.
 
 
 ---
