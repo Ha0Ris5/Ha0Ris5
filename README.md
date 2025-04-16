@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Haris!  
-### 🎓 Computer Science Student | 💻 Cybersecurity & Cloud | 🚀 Developer  
+### 🎓 Computer Science Student | 💻 Cybersecurity & Cloud | 🚀 Developer
 
-Passionate about **Cybersecurity, IT, and cloud development**, I thrive on building **scalable applications, AI-driven solutions, and secure cloud infrastructure**.  
+Immersed in the field of **Cybersecurity, IT, and cloud development**, I thrive on building **scalable applications, AI-driven solutions, and secure cloud infrastructure**.  
 My interests span across **full-stack development, cybersecurity, machine learning, and DevOps**.
 
 ---
