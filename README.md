@@ -23,7 +23,7 @@ My interests span through **full-stack development, cybersecurity, machine learn
 
 - **🌐 Full-Stack Job Listing Website** _(HTML, CSS, JavaScript, SQL, PHP)_  
   🔗 [Job listing website](https://github.com/Ha0Ris5/Fullstack-Job-advertisement-website)  
-  *A dynamic e-commerce platform with user authentication and product management.*  
+  *A dynamic hiring platform with user authentication and product management.*  
 
 - **🎮 Java 2D RPG Game** _(Java, Game Development)_  
   🔗 [Adventure RPG Game](https://github.com/haris-github/Java-RPG-Game)  
