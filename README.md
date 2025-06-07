@@ -8,11 +8,10 @@ My interests span through **full-stack development, cybersecurity, machine learn
 ---
 
 🔍 **Currently Exploring:**    
-- 🔐 Cybersecurity & Cloud Security
-- 🌐 Full-Stack Web & App Development 
-- 🤖 Machine Learning & AI  
+- 🔐 Cybersecurity & Cloud Security 
 - 🚀 DevOps & Infrastructure as Code (IaC)
-  
+-  🤖 Machine Learning & AI
+
 ---
 
 ## 👨‍💻 Featured Projects  
