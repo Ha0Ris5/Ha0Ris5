@@ -9,7 +9,7 @@ I thrive at the intersection of **security, automation, and intelligent systems*
 ### 🔍 What I'm Focused On  
 - 🔐 **Cloud & Cybersecurity** – Building resilient, secure cloud environments  
 - ⚙️ **DevOps & Infrastructure as Code (IaC)** – Automating operations and streamlining delivery  
-- 📊 **Data Science & AI** – Harnessing data for intelligent insights and smart applications  
+- 📊 **Data Science & AI automation** – Harnessing data for intelligent insights and smart applications  
 
 ---
 
