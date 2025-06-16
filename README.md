@@ -61,7 +61,7 @@ I thrive at the intersection of **security, automation, and intelligent systems*
 - ✅ **Infrastructure as Code** – Terraform, Ansible  
 - ✅ **CI/CD Pipelines** – GitHub Actions, Jenkins  
 - ✅ **Cloud Platforms** – AWS, Azure, GCP  
-- ✅ **Linux Mastery** – Scripting, Automation, Optimization  
+- ✅ **Linux ** – Scripting, Automation, Optimization  
 - ✅ **Containerization** – Docker & Kubernetes  
 
 I’m passionate about **streamlining workflows**, **securing systems**, and **accelerating delivery pipelines**. 🚀
