@@ -75,6 +75,6 @@ I’m passionate about **streamlining workflows**, **securing systems**, and **a
 
 ---
 
-✨ *Thanks for visiting! Feel free to explore my repositories, contribute, or reach out—I’m always up for a tech conversation.* 🚀
+✨ *Thanks for visiting! Feel free to explore my repositories, contribute, or reach out🚀
 
 
