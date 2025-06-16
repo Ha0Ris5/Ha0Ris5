@@ -1,22 +1,21 @@
 # 👋 Hey, I'm Haris!  
-### 🎓 Computer Science Student | 💻 Cybersecurity & Cloud | 🚀 Developer
+### 🎓 Computer Science Student | ☁️ Cloud & Cybersecurity Enthusiast | 🔧 DevOps Practitioner
 
-Immersed in **Cybersecurity, Devops, and Cloud Development**, I thrive on building **scalable applications, AI-driven solutions, and secure cloud infrastructure**.  
-My interests span through **full-stack development, cybersecurity, machine learning, and DevOps**.
-
+Passionate about **DevOps, Cloud Computing, and Cybersecurity**, I enjoy designing **scalable, secure, and automated systems**.  
+With a growing interest in **AI, data science, and infrastructure as code**, I’m continuously learning and building at the intersection of **security, automation, and innovation**.
 
 ---
 
-🔍 **Currently Exploring:**    
-- 🔐 Cybersecurity & Cloud Security 
-- 🚀 DevOps & Infrastructure as Code (IaC)
-- 🤖 Data Science & AI
+### 🔍 Current Focus  
+- 🔐 **Cloud & Cybersecurity** – Hardening infrastructure and securing cloud environments  
+- ⚙️ **DevOps & IaC** – Automating workflows and managing infrastructure with code  
+- 📊 **Data Science & AI** – Exploring intelligent systems and data-driven solutions  
 
 ---
 
 ## 👨‍💻 Featured Projects  
 
-- **🛡 AI Fraud Detection System** _(Python, Machine Learning)_  
+- ** AI Fraud Detection System** _(Python, Machine Learning)_  
   🔗 [Fraud Detection using ML](https://github.com/Ha0Ris5/AI-Fraud-Detection-System)  
   *Built a predictive model to detect fraudulent transactions with high accuracy.*  
 
@@ -41,11 +40,11 @@ My interests span through **full-stack development, cybersecurity, machine learn
 ## 🛠 Skills & Certifications  
 
 ### 💡 Technical Skills  
-- **Languages:** Python, C, JavaScript, SQL  
+- **Languages:** Python, C, JavaScript, SQL
+- **DevOps & Cloud:** Docker, Kubernetes, AWS, YAML, CI/CD 
 - **Web Development:** HTML, CSS, React, Node.js, PHP  
-- **Cybersecurity:** Penetration Testing, Networking, Linux Security  
-- **AI & Data Science:** Machine Learning, APIs, Statistics, Excel  
-- **DevOps & Cloud:** Docker, Kubernetes, AWS, YAML, CI/CD  
+- **Cybersecurity:** Penetration Testing, Networking, Linux,
+- **AI & Data Science:** Machine Learning, APIs, Statistics, Excel   
 
 ### 📜 Certifications  
 - 🎖 **Google Cybersecurity Certification**  
