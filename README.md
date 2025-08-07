@@ -70,6 +70,11 @@ I thrive at the intersection of **automation, data, and impactful insights**—a
 - ✅ **Data Analytics & Visualization** – Python, Excel, Power BI  
 - ✅ **Automation** – Scripts, ETL pipelines, marketing automations  
 
+---
+
+## 📫 Connect With Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/haris-m-9a220a283/)  
+- 🛠️ [GitHub](https://github.com/Ha0Ris5)
 
 
 
