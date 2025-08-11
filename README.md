@@ -49,7 +49,7 @@ I thrive at the intersection of **automation, data, and impactful insights**—a
 - **Marketing Tech (MarTech):** SEO, A/B Testing, CRM tools, Marketing Automation Platforms  
 
 ### 📜 Certifications  
-- 🎖 **Google Advanced Data Analytics**  
+- 🎖 **Google Cyber Security**  
 - 🎖 **Harvard CS50x** _(In Progress)_  
 - 🎖 **The Odin Project** _(In Progress)_  
 - 🏅 **Duke of Edinburgh Bronze Award**  
