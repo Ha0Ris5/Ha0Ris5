@@ -50,7 +50,7 @@ I thrive at the intersection of **automation, data, and impactful insights**—a
 
 ### 📜 Certifications  
 - 🎖 **Google Cyber Security**  
-- 🎖 **Harvard CS50x** _(In Progress)_  
+- 🎖 **AWS Cloud Practitioner** _(In Progress)_  
 - 🎖 **The Odin Project** _(In Progress)_  
 - 🏅 **Duke of Edinburgh Bronze Award**  
 
