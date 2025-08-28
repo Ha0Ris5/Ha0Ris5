@@ -1,17 +1,17 @@
-# 👋 Hey, I'm Haris!  
-### 🎓 Computer Science Student | 🔧 DevOps & Automation | Cyber Security & Cloud 
+### 👋 Hey, I'm Haris!
 
-I’m a tech enthusiast deeply passionate about **DevOps, Cloud Computing, and Data Science**. I specialize in crafting **scalable, automated, and data-driven solutions**, and I’m driven by the ever-evolving world of **cloud technologies, analytics, and intelligent systems**.  
-I thrive at the intersection of **automation, data, and impactful insights**—always building, learning, and pushing boundaries.
+### 🎓 Computer Science Student | 🔧 DevOps & IT Automation | ☁️ Cloud & Cybersecurity
+
+I’m a tech enthusiast deeply passionate about **DevOps**, **Cloud Computing**, and **Cybersecurity**. I specialize in crafting **scalable, automated, and secure solutions**, and I’m driven by the ever-evolving world of **cloud technologies**, **IT automation**, and **intelligent systems**. I thrive at the intersection of **automation**, **security**, and **impactful insights**—always building, learning, and pushing boundaries.
 
 ---
 
-### 🔍 What I'm Focused On  
-- ☁️ **Cloud Computing & Automation** – Building resilient, scalable cloud environments  
-- ⚙️ **DevOps & Infrastructure as Code (IaC)** – Streamlining delivery with automation  
-- 📈 **Data Science & Analytics** – Turning raw data into insights and actionable outcomes  
-- 📢 **Data-Driven Marketing Tech** – Merging data, automation, and customer insight  
+### 🔍 What I'm Focused On
 
+- ☁️ **Cloud Computing & Automation** – Building resilient, scalable cloud environments
+- ⚙️ **DevOps & Infrastructure as Code (IaC)** – Streamlining delivery with automation
+- 🔒 **Cybersecurity & IT Automation** – Securing systems and automating defensive measures
+- 📈 **Data-Driven Solutions** – Turning raw data into insights and actionable outcomes
 ---
 
 ## 👨‍💻 Featured Projects  
