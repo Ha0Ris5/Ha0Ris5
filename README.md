@@ -2,8 +2,7 @@
 
 ### 🎓 Computer Science Student | 🔧 DevOps & AI Automation | ☁️ Cloud & Cybersecurity
 
-I’m a tech enthusiast deeply passionate about **DevOps**, **Cloud Computing**, and **Cybersecurity**. I specialize in creating **scalable, automated, and secure solutions**, and I’m driven by the ever-evolving world of **cloud technologies**, **IT automation**, and **intelligent systems**. I thrive at the intersection of **automation**, **security**, and **impactful insights**—always building, learning, and pushing boundaries.
-
+I’m a tech enthusiast deeply passionate about **AI Automation & DevOps**, **Cloud Security**. I specialize in creating **scalable, automated, and secure solutions**, and I’m driven by the ever-evolving world of **cloud technologies**, **IT automation**, and **intelligent systems**.
 ---
 
 ### 🔍 What I'm Focused On
@@ -24,10 +23,6 @@ I’m a tech enthusiast deeply passionate about **DevOps**, **Cloud Computing**,
   🔗 [View Project](https://github.com/Ha0Ris5/Fullstack-Job-advertisement-website)  
   *Developed a responsive job portal with user authentication and listing management.*
 
-- **🎮 2D Java RPG Game** _(Java, Game Development)_  
-  🔗 [View Project](https://github.com/haris-github/Java-RPG-Game)  
-  *Created an engaging RPG game featuring interactive mechanics and custom UI.*
-
 - **📚 DSA Practice Repository** _(Python)_  
   🔗 [View Project](https://github.com/haris-github/DSA-Practice)  
   *Comprehensive collection of optimized solutions for common algorithms and challenges.*
@@ -41,12 +36,12 @@ I’m a tech enthusiast deeply passionate about **DevOps**, **Cloud Computing**,
 ## 🛠 Skills, Certifications & Education  
 
 ### 💡 Technical Skills  
-- **Languages:** Python, C, JavaScript, SQL  
+- **Languages:** Python, C, JavaScript, HTML, CSS, SQL  
 - **Cloud & DevOps:** AWS, Docker, Kubernetes, GitHub Actions, YAML  
 - **IaC & Automation:** Terraform, Ansible, Bash, PowerShell  
 - **Web Development:** HTML, CSS, React, Node.js, PHP  
 - **Data & Analytics:** Machine Learning, Pandas, APIs, Data Visualization, Excel, Google Analytics  
-- **Marketing Tech (MarTech):** SEO, A/B Testing, CRM tools, Marketing Automation Platforms  
+- **Marketing Tech :** SEO, A/B Testing, CRM tools, Marketing Automation Platforms  
 
 ### 📜 Certifications  
 - 🎖 **Google Cyber Security**  
@@ -74,7 +69,6 @@ I’m a tech enthusiast deeply passionate about **DevOps**, **Cloud Computing**,
 
 ## 📫 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/haris-m-9a220a283/)  
-- 🛠️ [GitHub](https://github.com/Ha0Ris5)
 
 
 
