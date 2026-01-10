@@ -1,14 +1,14 @@
 ### 👋 Hey, I'm Haris!
 
-### 🎓 Computer Science Student | 🔧 DevOps & IT Automation | ☁️ Cloud & Cybersecurity
+### 🎓 Computer Science Student | 🔧 DevOps & AI Automation | ☁️ Cloud & Cybersecurity
 
-I’m a tech enthusiast deeply passionate about **DevOps**, **Cloud Computing**, and **Cybersecurity**. I specialize in crafting **scalable, automated, and secure solutions**, and I’m driven by the ever-evolving world of **cloud technologies**, **IT automation**, and **intelligent systems**. I thrive at the intersection of **automation**, **security**, and **impactful insights**—always building, learning, and pushing boundaries.
+I’m a tech enthusiast deeply passionate about **DevOps**, **Cloud Computing**, and **Cybersecurity**. I specialize in creating **scalable, automated, and secure solutions**, and I’m driven by the ever-evolving world of **cloud technologies**, **IT automation**, and **intelligent systems**. I thrive at the intersection of **automation**, **security**, and **impactful insights**—always building, learning, and pushing boundaries.
 
 ---
 
 ### 🔍 What I'm Focused On
 
-- ☁️ **Cloud Computing & Automation** – Building resilient, scalable cloud environments
+- ☁️ **AI Automation & Cloud ** – Building resilient, scalable cloud environments
 - ⚙️ **DevOps & Infrastructure as Code (IaC)** – Streamlining delivery with automation
 - 🔒 **Cybersecurity & IT Automation** – Securing systems and automating defensive measures
 - 📈 **Data-Driven Solutions** – Turning raw data into insights and actionable outcomes
