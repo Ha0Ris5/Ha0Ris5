@@ -3,6 +3,8 @@
 ### 🎓 Computer Science Student | 🔧 DevOps & AI Automation | ☁️ Cloud & Cybersecurity
 
 I’m a tech enthusiast deeply passionate about **AI Automation & DevOps**, **Cloud Security**. I specialize in creating **scalable, automated, and secure solutions**, and I’m driven by the ever-evolving world of **cloud technologies**, **IT automation**, and **intelligent systems**.
+
+
 ---
 
 ### 🔍 What I'm Focused On
