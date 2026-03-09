@@ -47,7 +47,7 @@ I’m a tech enthusiast interested in the field of **AI Automation & DevOps**, *
 
 ### 📜 Certifications  
 - 🎖 **Google Cyber Security**  
-- 🎖 **AWS Cloud Practitioner** _(In Progress)_  
+- 🎖 **AWS Cloud Practitioner**  
 - 🎖 **The Odin Project** _(In Progress)_  
 - 🏅 **Duke of Edinburgh Bronze Award**  
 
