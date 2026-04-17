@@ -43,7 +43,7 @@ I’m a tech enthusiast interested in the field of **AI Automation & DevOps**, *
 - **IaC & Automation:** Terraform, Bash, PowerShell  
 - **Web Development:** HTML, CSS, React, Node.js,   
 - **Data & Analytics:** Machine Learning, Pandas, APIs, Data Visualization, Excel, Google Analytics  
-- **Marketing Tech :** SEO, A/B Testing, CRM tools, Marketing Automation Platforms  
+- **Marketing Tech :** SEO, CRM tools, Marketing Automation Platforms  
 
 ### 📜 Certifications  
 - 🎖 **Google Cyber Security**  
