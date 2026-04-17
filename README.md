@@ -29,8 +29,8 @@ I’m a tech enthusiast interested in the field of **AI Automation & DevOps**, *
   🔗 [View Project](https://github.com/haris-github/DSA-Practice)  
   *Comprehensive collection of optimized solutions for common algorithms and challenges.*
 
-- **🛡️ Security Automation Scripts** _(PowerShell, Bash)_  
-  🔗 [View Project](https://github.com/haris-github/Cybersecurity-Scripts)  
+- **🛡️ 2 FACTOR LOGIN SYSTEM** 
+  🔗 [View Project](https://github.com/Ha0Ris5/MFA-2Factor-LoginSystem)  
   *Automated tasks for system hardening, penetration testing, and threat detection.*
 
 ---
