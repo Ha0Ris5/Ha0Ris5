@@ -21,7 +21,7 @@ I’m a tech enthusiast interested in the field of **AI Automation & DevOps**, *
   🔗 [View Project](https://github.com/Ha0Ris5/AI-Fraud-Detection-System)  
   *Engineered a machine learning model to detect fraudulent transactions with high accuracy.*
 
-- ** (Group Project) Full-Stack Job Listing Website** _(HTML, CSS, JavaScript, SQL, PHP)_  
+- **Group Project Full-Stack Job Listing Website** _(HTML, CSS, JavaScript, SQL, PHP)_  
   🔗 [View Project](https://github.com/Ha0Ris5/Fullstack-Job-advertisement-website)  
   *Developed a responsive job portal with user authentication and listing management.*
 
