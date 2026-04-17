@@ -38,10 +38,10 @@ I’m a tech enthusiast interested in the field of **AI Automation & DevOps**, *
 ## 🛠 Skills, Certifications & Education  
 
 ### 💡 Technical Skills  
-- **Languages:** Python, C, JavaScript, HTML, CSS, SQL  
+- **Languages:** Python, JavaScript, HTML, CSS, SQL  
 - **Cloud & DevOps:** AWS, Docker, Kubernetes, GitHub Actions, YAML  
-- **IaC & Automation:** Terraform, Ansible, Bash, PowerShell  
-- **Web Development:** HTML, CSS, React, Node.js, PHP  
+- **IaC & Automation:** Terraform, Bash, PowerShell  
+- **Web Development:** HTML, CSS, React, Node.js,   
 - **Data & Analytics:** Machine Learning, Pandas, APIs, Data Visualization, Excel, Google Analytics  
 - **Marketing Tech :** SEO, A/B Testing, CRM tools, Marketing Automation Platforms  
 
