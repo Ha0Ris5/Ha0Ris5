@@ -15,7 +15,7 @@ I’m a tech enthusiast interested in the field of **AI Automation & DevOps**, *
 - 📈 **Data-Driven Solutions** – Turning raw data into insights and actionable outcomes
 ---
 
-## 👨‍💻 Featured Projects  
+## 👨‍💻Main Featured Projects  
 
 - ** AI Fraud Detection System** _(Python, Machine Learning)_  
   🔗 [View Project](https://github.com/Ha0Ris5/AI-Fraud-Detection-System)  
@@ -58,18 +58,18 @@ I’m a tech enthusiast interested in the field of **AI Automation & DevOps**, *
   _(June - July 2025)_
 
 
-## 🚀 DevOps, Data & Cloud Focus  
+##  DevOps, Data & Cloud Focus  
 
-- ✅ **Infrastructure as Code** – Terraform, Ansible  
-- ✅ **CI/CD Pipelines** – GitHub Actions, Jenkins  
-- ✅ **Cloud Platforms** – AWS, Azure, GCP  
-- ✅ **Data Analytics & Visualization** – Python, Excel, Power BI  
-- ✅ **Automation** – Scripts, ETL pipelines, marketing automations  
+- **Infrastructure as Code** – Terraform, Ansible  
+- **CI/CD Pipelines** – GitHub Actions, Jenkins  
+- **Cloud Platforms** – AWS, Azure,
+- **Data Analytics & Visualization** – Python, Excel, Power BI  
+-  ** Currently learning - Automation** – Scripting, pipelines, 
 
 ---
 
 ## 📫 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/haris-m-9a220a283/)  
+- [LinkedIn](https://www.linkedin.com/in/haris-m-9a220a283/)  
 
 
 
