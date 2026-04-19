@@ -1,8 +1,8 @@
 ### 👋 Hey, I'm Haris!
 
-### 🎓 Computer Science Student | 🔧 DevOps & AI Automation | ☁️ Cloud & Cybersecurity
+### 🎓 Computer Science Student | 🔧 DevOps & Cybersecurity | ☁️ Front-end Web development
 
-I’m a tech enthusiast interested in the field of **AI Automation & DevOps**, **Cloud Security**. I specialize in creating **scalable, automated, and secure solutions**, and I’m driven by the ever-evolving world of **cloud technologies**, **IT automation**, and **intelligent systems**.
+I’m a tech enthusiast interested in the field of **Cloud Security & DevOps**, **Front-end Web Development**. I specialize in creating **scalable, automated, and secure solutions**, and I’m driven by the ever-evolving world of **cloud technologies**, **IT automation**, and **intelligent systems**.
 
 
 ---
