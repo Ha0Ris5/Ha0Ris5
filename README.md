@@ -10,7 +10,7 @@ I’m a tech enthusiast interested in the field of **Cloud Security & DevOps**, 
 ### 🔍 What I'm Focused On
 
 - ☁️ **AI Automation & Cloud ** – Building resilient, scalable cloud environments
-- ⚙️ **DevOps & Infrastructure as Code (IaC)** – Streamlining delivery with automation
+- ⚙️ **DevOps & Front-end Development – Streamlining delivery with automation, HTML, CSS, Javascript
 - 🔒 **Cybersecurity & IT Automation** – Securing systems and automating defensive measures
 - 📈 **Data-Driven Solutions** – Turning raw data into insights and actionable outcomes
 ---
