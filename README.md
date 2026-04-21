@@ -62,7 +62,7 @@ I’m a tech enthusiast interested in the field of **Cloud Security & DevOps**, 
 
 - **Infrastructure as Code** – Terraform, Ansible  
 - **CI/CD Pipelines** – GitHub Actions, Jenkins  
-- **Cloud Platforms** – AWS, Azure,
+- **Cloud Platforms** – AWS, Currnently focusing on Azure,
 - **Data Analytics & Visualization** – Python, Excel, Power BI  
 -  ** Currently learning - Automation** – Scripting, pipelines, 
 
